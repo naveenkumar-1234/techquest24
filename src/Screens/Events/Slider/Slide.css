@@ -1,0 +1,20 @@
+.event-slider-container {
+    max-width: 100%;
+    margin: 0 5px;
+  }
+  
+  .event-slide {
+    padding: 0 10px;
+  }
+  
+  .slick-slide > div {
+    margin: 0 5px;
+  }
+  .slick-dots {
+    bottom: -20px;
+    position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  }
+  
